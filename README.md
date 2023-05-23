@@ -36,4 +36,3 @@
 23. x==y used to check equality.
 24. x!=y used to check non equality.
 25. Logical operators : and, or not.
-26. 
