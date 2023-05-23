@@ -36,3 +36,6 @@
 23. x==y used to check equality.
 24. x!=y used to check non equality.
 25. Logical operators : and, or not.
+26. decision making constructs if , if else.
+27. Looping constructs for loop , while loop and do while.
+28.
