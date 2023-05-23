@@ -16,7 +16,7 @@
     b. first letter : proper letter / under_score
     c. no reserved keywords, no intermittent spaces
     d. casing matters
-    
+
 7. bit is the smallest unit of memory
 8. 1 byte is 8 bits
 9. Integer value takes 4 bytes memory in ram.
@@ -26,4 +26,14 @@
 13. precision: 6 digits after decimal, rounded off till 1st 6 digits of decimal.
 14. for float , 4 bytes are allocated, double 8 bytes
 15. Format specifier is used to specify the datatype of var being printed.
-16.  
+16. Operators are used to do mathematical operations between operands.
+17. x+y : + is an operator , x,y are operands.
+18. dividend=divisor*quotient + remainder
+19. Modulo operator a%b : 17%5=2
+20. Rules of evaluating an expression : BODMAS --> precedence rule.
+21. If we have operators of equal precedence then we use associativity rules L-> R or R->L
+22. post increment > pre increment in precedence.
+23. x==y used to check equality.
+24. x!=y used to check non equality.
+25. Logical operators : and, or not.
+26. 
