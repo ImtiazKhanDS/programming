@@ -38,4 +38,7 @@
 25. Logical operators : and, or not.
 26. decision making constructs if , if else.
 27. Looping constructs for loop , while loop and do while.
-28.
+28. Arrays are collection of data.
+29. Indexing in an array starts with 0 and not 1.
+30. If we try to access an index which is not present in the array , we get index out of bound exception
+31.   
