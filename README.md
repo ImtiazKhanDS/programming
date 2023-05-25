@@ -44,3 +44,13 @@
 31. Memory allocation is random and its not contiguos , x what is the memory of address of the list.
 32. If we just know the address of first byte block that is enough to get the rest of the addresses of the elements in case of an array.
 33.In case of array pointer base address is stored in arr, *(arr+i) ==> arr[i]. 
+34,The name of the array is a constant pointer , it doesnot change and we cannot modify this pointer.
+35.Pointer to Pointer
+36,int a=5 , int*b=&a , int** c=&b , since b is a pointer to int , and in order to store a pointer to int , we need pointer to pointer int.
+37. Now in order to print a=5 is print(a, *b,**c)
+38. how to create an array of pointers int* pointers[3] and then we can do , x=1, pointers[0]=&x, now to print the value of x we can do *pointers[0]
+39.int ages[10] what is the data type of ages ,since ages consists of base address the datatype is int*
+38. int* pointers[3] what is the data type of pointers , since it holds a pointer to the pointer to int, its datatype is int**.
+39. In a 2d array , every element is in contiguous memory locations.
+40. pointers[i][j] =====> *(pointers[i]+j) 
+41. Functions are used to avoid code redundancy 
