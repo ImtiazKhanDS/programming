@@ -9,4 +9,3 @@
 10. Passing by value means , a new copy is going to be created 
 11. Passing by reference means , an address is passed
 12. By default when you pass an array , the base address which is in the name is passed.
-13. 
