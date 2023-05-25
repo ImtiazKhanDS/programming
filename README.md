@@ -41,4 +41,6 @@
 28. Arrays are collection of data.
 29. Indexing in an array starts with 0 and not 1.
 30. If we try to access an index which is not present in the array , we get index out of bound exception
-31.   
+31. Memory allocation is random and its not contiguos , x what is the memory of address of the list.
+32. If we just know the address of first byte block that is enough to get the rest of the addresses of the elements in case of an array.
+33.In case of array pointer base address is stored in arr, *(arr+i) ==> arr[i]. 
