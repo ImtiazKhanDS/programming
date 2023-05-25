@@ -54,4 +54,6 @@
 39. In a 2d array , every element is in contiguous memory locations.
 40. pointers[i][j] =====> *(pointers[i]+j) 
 41. Functions are used to avoid code redundancy 
-42. 
+42. Pass by value , pass the entire values into the function
+43. Pass the address of the variable.
+44. 
