@@ -1,7 +1,11 @@
 from typing import List
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        '''compute prefix min and suffix max and take max of the differences'''
+        '''compute prefix profit and suffix profit and take max of the summation of both
+        prefix profit denotes if i sell today , what is my max profit
+        suffix profit denotes if buy and sell later than today then what is my max profit.
+        
+        '''
         n=len(prices)
         prices_min=[0]*n
         prices_min[0]=prices[0]
